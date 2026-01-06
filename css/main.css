@@ -636,7 +636,7 @@ h2~p {
   padding-top: 2em;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
 
   /* GLOBAL STYLES */
   html {
